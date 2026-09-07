@@ -1,0 +1,6 @@
+{
+  "name": "EduSolve AI",
+  "description": "Multi-subject AI homework helper with multimodal support (image + text) and bilingual explanations.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
